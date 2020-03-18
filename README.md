@@ -1,6 +1,6 @@
 # Thuglife is all you need
 
-![Alt text](result.JPG)
+![alt text](https://github.com/habom2310/thuglife-meme-realtime-javascript-canvas/blob/master/result.PNG)
 
 This cool project is done completely in javascript and is ready to deploy to any simple webserver without any worry about computation because it will run in the user side.
 
